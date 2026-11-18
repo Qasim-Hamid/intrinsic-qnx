@@ -1,0 +1,13 @@
+# Upstream repositories
+/intrinsic-core/
+/qnx-agent-skills/
+
+# Build artifacts
+/build/
+
+# Local environment
+.env
+.env.*
+
+# Claude local configuration
+.claude/settings.local.json
